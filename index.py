@@ -30,7 +30,7 @@ else:
 
 # === Ambil argumen dari command-line ===
 if len(sys.argv) < 4:
-    print("Usage: script.py <nama> <harga> <email>")
+    print("Usage: index.py <nama> <harga> <email>")
     sys.exit(3)
 
 name, price, email_customer = sys.argv[1:4]
