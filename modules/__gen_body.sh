@@ -20,7 +20,7 @@ json=$(jq -n \
   }'
 )
 
-# Simpan ke data.json (optional)
+
 echo "$json" > body.json
 
 # Render dengan mustache
