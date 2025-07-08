@@ -1,0 +1,6 @@
+__pycache__/
+ETALASE/
+*.log
+*.env
+*.mustache
+*.envrc
