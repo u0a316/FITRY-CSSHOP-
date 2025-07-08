@@ -1,5 +1,4 @@
 # FITRY-CSSHOP-
 
-# Automasi untuk membuat faktur dikirim lewat e-mail
+# Skript membuat faktur dikirim lewat e-mail (belum terintegrasi dengan Google sheet & Google Form)
 
-# Belum mendukung automasi jika pembayaran lunas maka langsung memproses (Masih manual)
