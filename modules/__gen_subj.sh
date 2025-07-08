@@ -13,7 +13,7 @@ json=$(jq -n \
   '{ "ORDER_NUMBER": $ORDER_NUMBER }'
 )
 
-# Simpan ke file (optional)
+
 echo "$json" > subject.json
 
 # Render template
